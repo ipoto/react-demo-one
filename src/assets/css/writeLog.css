@@ -1,0 +1,156 @@
+@charset "UTF-8";
+.pt30{
+	padding-top: 0.3rem;
+}
+.pull-left{
+	float: left;
+}
+.pull-right{
+	float: right;
+}
+.log-wrap .black-block{
+	background-color: #fff;
+	padding: 0 0.3rem;
+	margin-bottom: 0.3rem;
+	position: relative;
+}
+.log-wrap .num-wrap{
+	line-height: 0.85rem;
+	border-bottom: 1px solid #e5e5e5;
+}
+.log-wrap .icon-block{
+	position: absolute;
+	top: .3rem;
+	display: inline-block;
+	height: 0.25rem;
+	border: 0.03rem solid #0099ff;
+}
+.log-wrap .num-detail{
+	font-size: 0.24rem;
+	color: #333;
+	margin-left: 0.15rem;
+}
+.log-wrap .num-state{
+	font-size: 0.22rem;
+	color: #0099ff;
+	float: right;
+}
+.log-wrap .ware-wrap{
+	line-height: 0.72rem;
+}
+.log-wrap .spec-title{
+	font-size: 0.22rem;
+	color: #999999;
+}
+.log-wrap .spec-text{
+	font-size: 0.22rem;
+	color: #333333;
+}
+.log-wrap .name-style{
+	margin-left: 0.15rem;
+	float: left;
+}
+.log-wrap .num-style{
+	float: right;
+	margin-right: 0.22rem;
+}
+.log-wrap .address-icon{
+	position: absolute;
+	top: 0.3rem;
+	font-size: 0.3rem;
+	color: #0099ff;
+}
+.log-wrap .person-wrap{
+	margin-left: 0.5rem;
+	padding-top: 0.28rem;
+}
+.log-wrap .address-wrap{
+	margin-left: 0.5rem;
+	padding-top: 0.14rem;
+	padding-bottom: 0.3rem;
+}
+.log-wrap .person-style{
+	margin-left: 0.4rem;
+	float: left;
+}
+.log-wrap .address-style{
+	display: block;
+	width: 5rem;
+	float: left;
+	margin-left: 0.4rem;
+}
+.log-wrap .tel-style{
+	margin-left: 1.1rem;
+	float: left;
+}
+.log-wrap .spec-w{
+	width: 1.0rem;
+	float: left;
+}
+.log-wrap .ul-block{
+	background-color: #fff;
+}
+.log-wrap .ul-block li{
+	line-height: 0.87rem;
+	border-bottom: 1px solid #e5e5e5;
+	padding: 0 0.3rem;
+	font-size: 0.26rem;
+	color: #000;
+}
+.log-wrap .ul-block li .title{
+	display: block;
+	width: 1.15rem;
+	float: left;
+}
+.log-wrap .ul-block li input, .log-wrap .ul-block li select{
+	font-size: 0.26rem;
+	height: 0.86rem;
+	width: 4.2rem;
+	margin-left: 0.7rem;
+	line-height: .26rem;
+	float: left;
+}
+.log-wrap .ul-block li input::-webkit-input-placeholder{
+	font-size: 0.26rem;
+	color: #999999;
+	line-height: .26rem;
+}
+.log-wrap .ul-block li input::-moz-placeholder{
+	font-size: 0.26rem;
+	color: #999999;
+	line-height: .26rem;
+}
+.log-wrap .ul-block li.last{
+	border: none;
+}
+.log-wrap .item-right {
+    color: #cccccc;
+    font-size: 0.26rem;
+    float: right;
+}
+.log-wrap .check-wrap{
+	float: left;
+	margin-left: 0.7rem;
+}
+.log-wrap .check-icon{
+	display: block;
+	width: 0.3rem;
+	height: 0.3rem;
+	margin-right: 0.2rem;
+	margin-top: 0.28rem;
+	border: 1px solid #9c9c9c;
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-ms-border-radius: 50%;
+	float: left;
+	font-size: 0.28rem;
+	color: #0099ff;
+}
+.log-wrap .check-wrap.cur .check-icon{border:1px solid #09f; background: #09f}
+.mbsc-ios .dwbc{
+	background-color: #4a4a4f;
+}
+.mbsc-ios .dwb{
+	color: #fff;
+}

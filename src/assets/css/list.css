@@ -1,0 +1,15 @@
+.hdtab{height:.87rem; background: #fff;}
+.hdtab li{height: .87rem; line-height: .87rem; border-bottom: solid 2px #fff; text-align: center; font-size: .26rem; color: #000; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;}
+.hdtab li span{font-size: .24rem;}
+.hdtab li.active{color: #0099ff; border-color: #0099ff}
+
+.list{margin-top: .3rem;}
+.list li{margin-bottom: .3rem; background: #fff;}
+.list li a{display: block; padding: 0 .3rem;}
+.list li .tit{border-bottom: solid 1px #eee; color: #333; font-size: .24rem; height: .86rem; line-height: .86rem;}
+.list li .tit:before{content: ''; display: inline-block; vertical-align: middle; width: 0.05rem; height: .25rem; background: #0099ff; margin-right: .1rem;}
+.list li .linepart{padding: .2rem .17rem .13rem; font-size: .22rem; color: #999;}
+.list li .linepart:last-child{padding: 0 .17rem .3rem;}
+.list li .linepart .last-cell{width: 2.4rem;}
+.list li .linepart i{font-style: normal; color: #333;}
+

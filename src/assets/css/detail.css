@@ -1,0 +1,31 @@
+.order-info{background: #fff; padding: 0.3rem; margin: 0.2rem 0; font-size: 0.28rem;}
+.order-info h3{border-left: .05rem solid #09f;padding-top: .04rem; font-weight: 400; height: 0.3rem; margin-bottom: 0.2rem; padding-left: 0.1rem;font-size: 0.24rem;}
+.order-info h3 .state{ float: right; color: #09f; }
+.order-info .p1{ padding: 0.3rem 0 0.1rem; border-top: 1px solid #eee;font-size: 0.22rem;}
+.order-info .p1 i{ color: #666; font-style: normal;}
+.order-info .p1 .way{ float: right;}
+.wl-total{ background: #fff; color: #09f; font-size: 0.28rem; padding: 0.35rem 0.3rem;border-bottom: 1px solid #eee;    font-weight: 400;}
+.sku-list{ overflow: hidden;}
+.sku-list li{ padding:0.2rem 0.3rem 0; margin-bottom: 0.2rem; background: #fff; font-size: 0.26rem; }
+.sku-list dt{padding: 0 0 0.35rem 0; border-bottom: 1px solid #eee;}
+.sku-list dt .num{ color: #09f; padding-bottom: 0.25rem; font-weight: 700;margin-left: 1.0rem;    font-weight: 400;}
+.sku-list dt .title{margin-left: 1.0rem;font-size: .24rem;}
+.sku-list dd h5{padding-bottom: 0.25rem; font-weight: 400;margin-left: 1.0rem}
+.sku-list dd{ padding: 0.35rem 0; border-bottom: 1px solid #eee;font-size: .22rem;}
+.sku-list dd p{ color: #999;margin-left: 1.0rem;}
+.sku-list dl dd:last-child{border-bottom: none;}
+.sku-list .detail-img{width: 0.7rem;height: 0.7rem;text-align: center;float: left;}
+
+
+.wayinfo{background: #fff; margin-bottom: .2rem; padding: .3rem;}
+.wayinfo .consignee{ padding-bottom: .1rem; border-bottom: solid 1px #e5e5e5; padding-left: .55rem; padding-bottom: .1rem; border-bottom: solid 1px #e5e5e5;}
+.wayinfo .consignee:before{content:'\e62c'; font-family: iconfont; color: #0099ff;  float: left; margin-left: -.55rem; font-size: .3rem;}
+.wayinfo p{ overflow: hidden; margin-bottom: .2rem; color: #000; font-size: .22rem; padding-left: 1.34rem; line-height: .26rem;}
+.wayinfo p .label{display: block; width: 1.34rem; margin-left: -1.34rem; float: left; color: #999;}
+.wayinfo p .name{margin-right: 1.1rem;}
+.wayinfo .express{padding-top: .2rem; padding-left: .55rem;}
+.wayinfo .express:before{content:'\e62d'; font-family: iconfont; color: #0099ff;  float: left; margin-left: -.55rem; font-size: .3rem;}
+
+.border-b{border-bottom: 1px solid #eee;margin-bottom: .2rem}
+.pb25{padding-bottom: .25rem;}
+.waite-text{color: #fff!important}
