@@ -6,7 +6,7 @@ React.js文档：[http://uprogrammer.cn/react-tutorial-cn/index.html](http://upr
 
 React-router文档：[http://www.uprogrammer.cn/react-router-cn/index.html](http://www.uprogrammer.cn/react-router-cn/index.html)
 
-数据模拟请求Mockjs：[http://mockjs.com/](http://mockjs.com/)
+数据模拟Mockjs：[http://mockjs.com/](http://mockjs.com/)
 
 ##界面预览
 
