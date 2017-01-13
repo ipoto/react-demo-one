@@ -8,16 +8,6 @@ React-router文档：[http://www.uprogrammer.cn/react-router-cn/index.html](http
 
 数据模拟Mockjs：[http://mockjs.com/](http://mockjs.com/)
 
-##界面预览
-
-![列表页](readme_img/1.png)
-
-![详情页](readme_img/2.png)
-
-![物流页](readme_img/3.png)
-
-> ps：demo只是模拟了工作上用过的几个页面，用以熟悉一些简单的React知识，数据都是为了页面结构的完整性模拟出来的
-
 ## Build
 
 ```bash
