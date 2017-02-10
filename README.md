@@ -1,5 +1,6 @@
 # React实战练习
 仓库：[https://github.com/ipoto/react-demo-one.git](https://github.com/ipoto/react-demo-one.git)
+说明：react--react-router文件夹内为react、react-router练习，react--react-router--redux文件夹内为react、react-router、redux练习
 
 ## 参考资料
 React.js文档：[http://uprogrammer.cn/react-tutorial-cn/index.html](http://uprogrammer.cn/react-tutorial-cn/index.html)
